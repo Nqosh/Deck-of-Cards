@@ -1,4 +1,4 @@
-# C# implementation of a shuffle and sort of a deck of cards.
+# C# implementation of a shuffle and draw of a deck of cards.
 
 Name : Nqobile Moyo
 Date :03 March 2022
